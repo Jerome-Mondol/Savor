@@ -1,0 +1,15 @@
+{
+  "name": "savor-ecom",
+  "version": "1.0.0",
+  "description": "A ecom (fashoin )site named Savor",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Savor"
+  },
+  "author": "Jerome Mondol",
+  "license": "ISC"
+}
